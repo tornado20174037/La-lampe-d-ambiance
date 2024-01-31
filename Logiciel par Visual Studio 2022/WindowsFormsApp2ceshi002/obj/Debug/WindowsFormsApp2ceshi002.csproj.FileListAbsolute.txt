@@ -1,0 +1,11 @@
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\bin\Debug\WindowsFormsApp2ceshi002.exe.config
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\bin\Debug\WindowsFormsApp2ceshi002.exe
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\bin\Debug\WindowsFormsApp2ceshi002.pdb
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.csproj.AssemblyReference.cache
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.csproj.SuggestedBindingRedirects.cache
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.Form1.resources
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.Properties.Resources.resources
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.csproj.GenerateResource.cache
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.csproj.CoreCompileInputs.cache
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.exe
+C:\Users\16478\source\repos\WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002\obj\Debug\WindowsFormsApp2ceshi002.pdb

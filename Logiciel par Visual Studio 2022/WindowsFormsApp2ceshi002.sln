@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2ceshi002", "WindowsFormsApp2ceshi002\WindowsFormsApp2ceshi002.csproj", "{BB1DC825-6EF3-46B5-B72E-8E46BA6C7624}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LUMIERE", "LUMIERE\LUMIERE.vdproj", "{E8FBD8C7-9C99-456B-9A4A-E1DA3C7FB167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1DC825-6EF3-46B5-B72E-8E46BA6C7624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1DC825-6EF3-46B5-B72E-8E46BA6C7624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1DC825-6EF3-46B5-B72E-8E46BA6C7624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1DC825-6EF3-46B5-B72E-8E46BA6C7624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FBD8C7-9C99-456B-9A4A-E1DA3C7FB167}.Debug|Any CPU.ActiveCfg = Debug
+		{E8FBD8C7-9C99-456B-9A4A-E1DA3C7FB167}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99700E07-640C-4F6B-B821-4669FAB06C75}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
